@@ -6,7 +6,7 @@
 2. Single Hidden
     - Sigle Hidden busca valores unicos por cuadrado, donde solo es posible un valor a partir de los valores que son posibles en otras celdas.
 3. Backtracking (Brute force)
-    - Basicamente se fuerzan valores hasta que se soluciona el juego.
+    - Basicamente se prueban valores hasta que se soluciona el juego.
 
 En la carpeta principal se encuentra una aplición de **Streamlit**
 Se ejecuta desde la terminal con el comando "streamlit run app.py"
